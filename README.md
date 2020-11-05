@@ -6,6 +6,6 @@
 ## Input , Output Formats,
 
 There are 3 cases:
- 1 <Hexagon_name> : To find neighbors
- 2 <Parent_Hexagon_name> <New_Hexagon_name> <Side>
- 3/Any Other number - End of Program
+ ### 1 <Hexagon_name> : To find neighbors
+ ### 2 <Parent_Hexagon_name> <New_Hexagon_name> <Side>
+ ### 3/Any Other number - End of Program
